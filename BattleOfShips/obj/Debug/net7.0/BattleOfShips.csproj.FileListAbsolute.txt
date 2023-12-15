@@ -1,0 +1,15 @@
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\bin\Debug\net7.0\BattleOfShips.exe
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\bin\Debug\net7.0\BattleOfShips.deps.json
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\bin\Debug\net7.0\BattleOfShips.runtimeconfig.json
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\bin\Debug\net7.0\BattleOfShips.dll
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\bin\Debug\net7.0\BattleOfShips.pdb
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.AssemblyInfo.cs
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.dll
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\refint\BattleOfShips.dll
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.pdb
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\BattleOfShips.genruntimeconfig.cache
+C:\Users\пк\source\repos\BattleOfShips\BattleOfShips\obj\Debug\net7.0\ref\BattleOfShips.dll
